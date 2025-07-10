@@ -43,3 +43,4 @@ coverage/
 
 # Debug directories/files
 .debug/
+*.groovy
